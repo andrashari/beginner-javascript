@@ -13,7 +13,7 @@ people.forEach((person, index) => {
 // Callstack
 
 // Grabbing Elements
-ujigfgui
+ujig
 // Breakpoints
 hakhfh
 // Scope
